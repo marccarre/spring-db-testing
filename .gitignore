@@ -1,0 +1,17 @@
+## Java:
+*.class
+
+## Maven:
+target/
+
+## Eclipse:
+.classpath
+.project
+.settings/
+
+## IntelliJ:
+.idea/
+*.iml
+*.ipr
+*.iws
+/bin
