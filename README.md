@@ -1,5 +1,7 @@
-spring.db.testing
-=================
+[![Build Status](https://travis-ci.org/marccarre/spring-db-testing.svg?branch=master)](https://travis-ci.org/marccarre/spring-db-testing)
+[![Coverage Status](https://coveralls.io/repos/github/marccarre/spring-db-testing/badge.svg?branch=master)](https://coveralls.io/github/marccarre/spring-db-testing?branch=master)
+
+# spring.db.testing
 
 Sample code to use Spring embedded database API and unit test against an in-memory HSQLDB.
 
